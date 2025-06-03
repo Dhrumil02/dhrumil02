@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm Dhrumil Parikh
 
-<!--
-**Dhrumil02/dhrumil02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Flutter & Android Developer** 
+🔧 Focused on building scalable, maintainable, and efficient mobile applications  
+📍 Based in India | 💼 4+ years of industry experience
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Dart, Kotlin, Java
+- **Frameworks:** Flutter, Android SDK
+- **Architecture:** Clean Architecture, BLoC, GetX
+- **Backend Integration:** Firebase, REST APIs, WebSockets
+- **Tools:** Git, GitHub Actions, VS Code, Android Studio
+
+---
+
+## 📬 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/dhrumilparikh02)
+- 💻 [Medium Blog](https://medium.com/@dhrumilparikh02)
+
+---
+
+### Thanks for stopping by! Let’s build something great 🚀
