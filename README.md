@@ -1,7 +1,9 @@
 # 👋 Hi there, I'm Dhrumil Parikh
 
 🎯 **Flutter & Android Developer** 
+
 🔧 Focused on building scalable, maintainable, and efficient mobile applications  
+
 📍 Based in India | 💼 4+ years of industry experience
 
 ---
@@ -18,7 +20,7 @@
 ## 📬 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/dhrumilparikh02)
-- 💻 [Medium Blog](https://medium.com/@dhrumilparikh02)
+- 💻 [Medium](https://medium.com/@dhrumilparikh02)
 
 ---
 
